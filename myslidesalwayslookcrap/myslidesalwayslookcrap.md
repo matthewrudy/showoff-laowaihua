@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# my slides always look crap
+# "my slides always look crap"
 
 !SLIDE
 

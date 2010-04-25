@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# It'll take a week
+# "It'll take a week"
 
 !SLIDE
 
