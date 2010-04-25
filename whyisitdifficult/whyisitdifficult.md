@@ -2,7 +2,7 @@
 
 # Why is it difficult?
 
-!SLIDE bullets
+!SLIDE bullets incremental
 
 # People think
 
