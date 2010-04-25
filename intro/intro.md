@@ -1,8 +1,11 @@
-!SLIDE
+!SLIDE subsection
 
 # LaoWaiHua
 
 !SLIDE
 
-# LaoWaiHua
-## or "giving a talk doesn't need to be a chore"
+## or
+
+!SLIDE
+
+# Giving a talk doesn't need to be hard

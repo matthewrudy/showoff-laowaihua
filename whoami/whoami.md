@@ -4,7 +4,7 @@
 
 !SLIDE
 
-# Matthew Rudy
+# Matthew Rudy Jacobs
 
 !SLIDE center
 
