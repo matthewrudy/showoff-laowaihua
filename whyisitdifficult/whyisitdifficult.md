@@ -8,4 +8,5 @@
 
 * "I don't have anything to talk about"
 * "it'll take me a week to prepare a talk"
-* "My slides always look crap"
+* "my slides always look crap"
+* "I can't talk for half an hour"

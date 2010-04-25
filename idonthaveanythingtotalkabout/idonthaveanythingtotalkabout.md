@@ -9,7 +9,7 @@
 !SLIDE center
 
 ![LaoWaiHua](laowaihua.png)
-# Make something up
+### Make something up
 
 !SLIDE
 
@@ -29,7 +29,17 @@
 * >> LaoWaiHua.random(50)
 * => 了姓了。鹰买布去。飞看去，了跑。下醋醋姓。翻布跑，姓爷下了。飞了。回醋追顾。位前上街，顾醋他又。上姓
 
+!SLIDE code
+
+> <p><%= LaoWaiHua.random(20) %></p>
+> <p><%= LaoWaiHua.random(50) %></p>
+> <p><%= LaoWaiHua.random(75) %></p>
+> <p><%= LaoWaiHua.random(50) %></p>
+> <p><%= LaoWaiHua.random(15) %></p>
+>
+> <%= link_to "Projects", projects_path %>
+
 !SLIDE center
 
 ![Dployed](dployed.png)
-# Example
+### Score!
